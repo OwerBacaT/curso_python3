@@ -18,7 +18,7 @@ name: str = "python"
 print(f'"TESTE{name}"')
 
 # separador
-print(12 ,13 ,14 , 15 , sep = "-")
+print(12 ,13 ,14 , 15 , 16 sep = "-")
 
 # Quebra de linea
 print(12 ,13, 14, 15, sep="\n")
