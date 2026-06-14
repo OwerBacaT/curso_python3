@@ -42,8 +42,8 @@ print(type(100.69))
 >= mayor que 
 <= menor que
 '''
-valor1: int = 100 
-valor2: int = 105
+valor1 =  int(input('Valor 1 ='))
+valor2 =  int(input('Valor 2 ='))
 resultado = valor1 != valor2
 print(resultado)
 print(type(resultado))
